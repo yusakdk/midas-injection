@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MidasInjection.iml" filepath="$PROJECT_DIR$/MidasInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midas-dao-generator/midas-dao-generator.iml" filepath="$PROJECT_DIR$/midas-dao-generator/midas-dao-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midas-injection/midas-injection.iml" filepath="$PROJECT_DIR$/midas-injection/midas-injection.iml" />
+    </modules>
+  </component>
+</project>
